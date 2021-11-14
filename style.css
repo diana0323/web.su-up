@@ -13,10 +13,10 @@ h1{
     padding:20px;
 }
 .saw{
-    color:gray;
+    color:silver;
 }
 #active{
-    color:highlight;
+    color:dodgerblue;
 }
 ol{
     border-right:1px solid gray;
@@ -33,6 +33,10 @@ ol{
 }
 #grid #article{
     padding-left:25px;
+}
+#night_day{
+    background-color:snow;
+    color:black;
 }
 @media(max-width:800px){
     #grid{
